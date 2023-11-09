@@ -5,6 +5,6 @@
 <h2>執行影片</h2>
 https://www.youtube.com/watch?v=PrHCsdjK5Oc
 <h2>介紹</h2>
-<img src="https://github.com/LeeMoofon0222/Logic.AI/blob/main/Pic1.png?raw=true" alt="Pic1">
-<img src="https://github.com/LeeMoofon0222/Logic.AI/blob/main/Pic2.png?raw=true" alt="Pic2">
-<img src="https://github.com/LeeMoofon0222/Logic.AI/blob/main/Pic3.png?raw=true" alt="Pic3">
+<img src="https://github.com/LeeMoofon0222/Logic.AI/blob/main/ReadMe_Picture/Pic1.png?raw=true" alt="Pic1">
+<img src="https://github.com/LeeMoofon0222/Logic.AI/blob/main/ReadMe_Picture/Pic2.png?raw=true" alt="Pic1">
+<img src="https://github.com/LeeMoofon0222/Logic.AI/blob/main/ReadMe_Picture/Pic3.png?raw=true" alt="Pic1">
