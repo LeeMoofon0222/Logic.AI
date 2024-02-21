@@ -1,7 +1,5 @@
 # Logic.AI
-<h2>使用目的</h2> ⽬前市⾯上有許多一站式的AI⼯具讓使⽤
-者不⽤寫CODE，就能訓練出⼀個AI模型。但拿模型再去做處理的應⽤卻很少。
-因此我們打了⼀可⽤NO CODE的⼯具，讓使⽤者可輕對影識型出賦予邏輯。
+<h2>Purpose</h2> Currently, there are many all-in-one AI tools available on the market that allow users to train an AI model without writing code. However, there are few applications that take the trained models and use them for processing. Therefore, we have developed a NO CODE tool that allows users to easily apply logical reasoning to identify patterns in data.
 <h2>執行影片</h2>
 https://www.youtube.com/watch?v=PrHCsdjK5Oc
 <h2>介紹</h2>
